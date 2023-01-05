@@ -60,7 +60,6 @@ export class NgxBalancerComponent implements AfterViewInit {
     if (width) {
       while (left + 1 < right) {
         middle = ~~((left + right) / 2);
-        console.log(left, right, middle)
         update(middle);
         if (container.clientHeight === height) {
           right = middle;
