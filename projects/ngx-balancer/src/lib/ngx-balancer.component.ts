@@ -3,6 +3,7 @@ import { NgxResize, NgxResizeResult, provideNgxResizeOptions } from 'ngx-resize'
 
 @Component({
   selector: 'ngx-balancer, [ngx-balancer]',
+  standalone: true,
   template: `
   <span #wrapper>
     <ng-content></ng-content>
