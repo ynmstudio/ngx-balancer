@@ -1,0 +1,31 @@
+{
+  "name": "ngx-balancer",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Denis Yilmaz",
+      "email": "denis@ynm.studio",
+      "url": "https://ynm.studio"
+    },
+    "Shu Ding <g@shud.in>"
+  ],
+  "description": "Better text wrapping for Angular.",
+  "keywords": [
+    "angular",
+    "wrapping",
+    "text",
+    "typography"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ynmstudio/ngx-balancer/tree/main/projects/ngx-balancer"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
