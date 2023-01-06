@@ -60,7 +60,7 @@ export class NgxBalancerComponent implements AfterViewInit {
     let middle: number;
     if (width) {
       while (left + 1 < right) {
-        middle = ~~((left + right) / 2);
+        middle = ~~((left + right) / 2); // double "bitwise not" operator, same as Math.floor((left + right) / 2), but slightly faster
         update(middle);
         if (container.clientHeight === height) {
           right = middle;
