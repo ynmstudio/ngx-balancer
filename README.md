@@ -1,3 +1,5 @@
+Update 2025: with a availability of almost 90% globally we recommend using the css based solution `text-wrap: balance` as its more lightweight, better vitals: https://caniuse.com/css-text-wrap-balance
+
 # Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
