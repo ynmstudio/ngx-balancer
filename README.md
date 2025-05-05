@@ -1,4 +1,4 @@
-Update 2025: with a availability of almost 90% globally we recommend using the css based solution `text-wrap: balance` as its more lightweight, better vitals: https://caniuse.com/css-text-wrap-balance
+> _Update 2025_: with a availability of almost 90% globally we recommend using the css based solution `text-wrap: balance` as its more lightweight, better vitals: https://caniuse.com/css-text-wrap-balance
 
 # Angular
 
